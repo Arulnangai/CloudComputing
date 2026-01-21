@@ -149,3 +149,77 @@ Requires users to manage the OS, data and applications.
 Paas -> Productivity -> User is focuses only on applciation developement (All platform management is handled by the cloud provider).
 Enables working with distributed teams as the platform is accessed over the internet and can be made globally.
 Requiures less user management.
+The cloud provider is managing the cloud operating system and user is responsible for the application and data they run and store.
+Saas -> Pas as you go pricing model.They use on a subscription model. Typically monthly or yearly regardless of how much they use the software ( Enables payment for software on a subscription model).
+Requires the least user management. 
+Requires cloud provider to manage everything.
+
+Management: 
+Traditions on-permise: 
+you manage -> 
+Application
+Data
+Runtime
+Middleware
+Operating system
+Virtualization
+Servers
+Storage
+Networking 
+
+Iaas:
+you manage -> 
+Application
+Data
+Runtime
+Middleware
+Operating system
+
+Managed by Vendor ->
+Virtualization
+Servers
+Storage
+Networking 
+
+Paas:
+you manage -> 
+Application
+Data
+
+Managed by Vendor ->
+Runtime
+Middleware
+Operating system
+Virtualization
+Servers
+Storage
+Networking 
+
+Saas:
+Managed by Vendor -> 
+Application
+Data
+Runtime
+Middleware
+Operating system
+Virtualization
+Servers
+Storage
+Networking 
+
+Cloud Computing in Action:
+On demand and scalable high performace compute Virtual machines for analysis and simulation.
+Cloud- designed workstation  hosted on cloud accessible from any location.
+The research includes remote data collection, analysis, modeling and sharing.
+Extracting actionalble insights from IoT data.
+Machines have been providing data for quite a while. New machines will doubtlessly be emitting even more data. having data is good but data is simply raw matierals having insights using the data through analysis guides you actions.
+
+Operationala costs: 
+Cloud computing can help finances by: 
+-> Providing cost-effective subsction
+-> Reduce infrastructure and upgrade costs
+-> Enabling faster releases with automatic upgrades.
+-> Improving usability  of services including reporting, analytics and predictive analysis using AI and MI servies in cloud.
+-> Opportunities for process improvement and agility,faster reporting and shorter planning cycles.
+-> Enabling growth 
+-> Supporitng business transformation upgrading finance systems and processes with the latest available on demand resources in the cloud.
