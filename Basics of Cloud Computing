@@ -45,4 +45,34 @@ Benefits of Cloud Computing :
 1. Coft - effective -> Pay-as-you-go-pricing, Pay only for the resources you use, Potential to lower the cost, No need of capital expenditure to get started 
 2. Scalable -> Veritcal scallling ( adds a faster CPU , Adds memory ) , Horizontal Scalling ( Adding more servers) 
 3. Elastic -> Add ( Addes resources when application is heavily used) or remove (Remove unnecessary resources when unnecessary) resources 
-4. Business Continuity -> Buidling and deploying applicaitons  
+4. Business Continuity -> Buidling and deploying applications, It provides fast access to resources or applications you or your company need, Maintenance is done, No more software patching, hardware setup, upgrades,
+and It management required.
+5. Reliable - Data is save, Azure provides ( Data backups, Disaster recovery, Data replication). 
+6. Secure -> Physical and digital security ( ensures both).
+7. Metered -> pay only for what you use. (No need to IT experts to explains cost ) 
+
+
+Risks of Cloud Computing:
+1. Placing your trust in the cloud provider -> When you depend on a cloud service for a business critical task, U put the business in hand of the cloud vendor and quality of their work 
+( Cloud service -> cirtical task -> Cloud vendor ) 
+Eg -> Data -> Amazon or Azure ( storing all our data in service) -> NO service ( issue on service ) -> No access (Issue to fetch the data ) 
+2. Service level Agreement -> Agreement between you and provider ( we hv to ensure if cloud provider is down, What they will provide you in return as it affect our busniess time )
+3. Slow data acess -> ( U hv data in cloud and want to move it another data center or download locally, what if it is slow. So ensure that it fast as our internet speed t the cloud connection)
+4. Legal or regulator complaints -> eg, financial or gvt entities cannot store data anywhere in the cloud. So they have to keep in mind to regulation and law associated with data should be considered.) 
+eg -> (U hv company and hvaing health data, Employee data, Financial data, Credit card data regulated by government -> You will have to take into special consideration which cloud provider you use and wher they are storing our data.
+5. Loss of potential or loss of customization or control - Eg, if you run your application locally, then you can customize it as you want. Assuming you have source code and the ability to perform the customization.
+but when you deploy the same application in cloud, then the cloud provider is going to share access to that single application to everyone and you might not have as much control and potential to customize the application
+as you would have on an on premise application.
+6. Potential for unknown Costs- > Eg , One can know the cost of their own servers, storage, and software application if eveyrthing is run locally. What in cloud computing if you store and used more servers, storage and 
+end up with more cost in bill. So Cost uptimation is something that you should keep in mind. 
+
+
+
+
+Types of cloud computing -> 3 types
+1. Public cloud,
+2. Private Cloud,
+3. Hybrid Cloud.
+
+Public cloud - > 
+
