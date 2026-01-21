@@ -74,5 +74,15 @@ Types of cloud computing -> 3 types
 2. Private Cloud,
 3. Hybrid Cloud.
 
-Public cloud - > 
+Public cloud - > Owned by cloud service provider, and also known as Hosting provider.
+It provides Resources and services to multiple organization and users who connect to the cloud service via a secure network connection.
+Typically over the internet.
+Characteristics : 
+Multiple end users -> Public cloud modes may make their resources available to multiple organization, 
+Public access -> Public cloud provide access to the public.
+Availbility -> Most common cloud type deployment model.
+Connectivity -> Users and organizations are typically connected to the pubic cloud over the internet using a web browser.
+Skills-> Public cloud do not required deep technical knwlege to set up and use.
+Example: 
+Businesses can use multiple public cloud service provider companies of varying scale.  Eg - MS Azure is public cloud provider.
 
