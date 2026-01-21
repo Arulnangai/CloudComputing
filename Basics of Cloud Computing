@@ -11,7 +11,7 @@ illustrate the real-worl app of cloud computing
 Histroy of Cloud Computing
 ->Earlier terms of Cloud 
 Centralised Computing - A computing arch where all the processing is performed on a central server
-Grid Computing - A group of compyters physica;;y connected to perform dedicated tasks or solve a complex program 
+Grid Computing - A group of compyters physically connected to perform dedicated tasks or solve a complex program 
 Distributed Computing - A model that allows resource sharing among multiple computers to improve efficiency and performance 
 On- demand Computing - A model in which computing resources are made available on demand to the user as and when they are needed.
 Hosting - A service through which storage and computing resources are provided to a individual or an organization to host data for services
@@ -86,3 +86,66 @@ Skills-> Public cloud do not required deep technical knwlege to set up and use.
 Example: 
 Businesses can use multiple public cloud service provider companies of varying scale.  Eg - MS Azure is public cloud provider.
 
+
+Private Cloud -> Is owned and operated by the organization that used it. 
+They creaye a cloud environment in their own data center and 
+Provides self-service access to the computing resources to internal users ( Organization resources ).
+Organization remains the owner entirely responsible for the operation of the services they provide.
+Characteristics:
+Ownership -> The owner and the user of the cloud serivces are the same.
+Hardware -> The owner is the entirely responsible for the purchase maintenance and management of the cloud hardware.
+Users -? A private cloud operates only within one organization and cloud computing resources are used exclusively by a single business or organization.
+Connectivity -> A connection to the private cloud is typically over a private network that is highly secure.
+Private access -> A private cloud doesnt give access to the public.
+Skills -> Deep technical knowledge is required to set up, manage and maintain the private cloud.
+
+Hybrid Cloud -> Combines both public and private cloud. Allows users to run applications in the cloud or on-premise.
+Charateristics:
+Hybrid resource location -> Specific resources run or are used in a public cloud and others run or are used in a private cloud.
+Similar to public cloud in efficiency and cost -> Hybrid cloud models allow an organization to leverage some of the benefits of cost efficiency and scale that are available with a public cloud model.
+Organization control and management -> Organization retain management control in private clouds.
+Skills -> Technical skills are required to maintain the private cloud and ensure the both cloud models can operate together.
+Example: Hosting a website in public cloud and linking it to a highly secure database hosted in a private cloud. 
+
+
+Comparison of cloud models: 
+Public cloud -> No CapEx, High agility, Consumption-based model.
+Private -> High control, Security.
+Hybrid cloud -> Provision for flexibility, Complaince, as required.
+
+
+Types of cloud services:
+3 types -> 
+IAAS -> Infrastructure as a service.
+PAAS -> Platform as a service.
+SAAS -> software as a service.
+
+Iaas:
+Most basic category of cloud computing services.
+With Iaas you can rent IT infrastructure servers, Like Virtual machine(VMs), Storage, Networks, and Operating systems 
+It's an instant computing infrastructure provisioned and managed over the internet. 
+
+Paas:
+Provides an environment for Building, Testing and Deploying of software application.
+Goals of Paas is to help create an applicatio as quickly as possible without having to focusing on managing the infrastructure.
+Common usage Scenarios -> Provides a framework for developers to develop or customiza cloud-based applications. 
+Similar to the way you create a mc excel MAcro. Paas Lets developers create applications using built in software components, 
+Features: Reduces the amount of coding, Scalability, High availability, Multi-tenant capability.
+Paas provides abaytics or business intelligence are the tools provided as a service with pasas that allows organizations to analyze and mine their data.
+They can find insights and patterns and predict outcomes including Forecasting, Product designs and inverstment returns. 
+
+
+Saas:
+Centrally hosted and managed for the end customer.
+Allows user to connect to and use cloud-based apps over the internet.
+Common usage scenario:
+Email, calenders, office tools (MS office 365), Skype, MS Dynamics CRM online.
+
+Comparison of Cloud services:
+Iaas -> Is the most flexible cloud service. 
+Provide control to configure and manage the hardware running ur application.
+Requires more use management.
+Requires users to manage the OS, data and applications.
+Paas -> Productivity -> User is focuses only on applciation developement (All platform management is handled by the cloud provider).
+Enables working with distributed teams as the platform is accessed over the internet and can be made globally.
+Requiures less user management.
