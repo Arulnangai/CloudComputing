@@ -15,5 +15,34 @@ Grid Computing - A group of compyters physica;;y connected to perform dedicated 
 Distributed Computing - A model that allows resource sharing among multiple computers to improve efficiency and performance 
 On- demand Computing - A model in which computing resources are made available on demand to the user as and when they are needed.
 Hosting - A service through which storage and computing resources are provided to a individual or an organization to host data for services
-Application service provider (ASP) - IA company that delivers application funcationality and associated services using a rental or usage based transcation pricing model  
+Application service provider (ASP) - IA company that delivers application funcationality and associated services using a rental or usage based transcation pricing model 
 
+
+
+1950 - 1960 - Mainframe Computing - central computing with dumb is introduced 
+1960 - 1980 - Internet Advancements -> Arpanet TCP/ Ip & compuserve
+1970 - First Virtual machine not in cloud is evloved 
+1990 - Virtual privte networks ( Telecom offers VPN S )
+1990 - The cloud -> Saw numeros cloud computing advances and the term cloud begins to be used 
+1999 - Salesforce.com - > The first software as a service was introduced.
+2006 - Amazon.com, Goodle Docs -> Amazon launched their EC2 internet as a service as beta. Goodgle Docs introduced 
+2008 - MS Azure Azure internet as server was annonced.
+Now - MS azure, Amazon, Google, IBm, Sales force 
+
+Defination of CC - > On demend computing resources, Deliving over the internet 
+And it is a computing service that is traditionally carried out locaaly on premises 
+now performed remotely across the internet 
+
+Defin 0> NIST or NIST -> A model that enables ubiquitous and convenient on-demand network access to a shared pool of configuravke computing resources (for eg, Networks, servers, Storage, Application, and services) 
+that can be rapidly provisioned and released with minimal management effort or service provider interaction.
+
+
+5 essensial characteristec -> 3 service model, 4 deployment model 
+
+Charaterastics of CC:
+
+Benefits of Cloud Computing : 
+1. Coft - effective -> Pay-as-you-go-pricing, Pay only for the resources you use, Potential to lower the cost, No need of capital expenditure to get started 
+2. Scalable -> Veritcal scallling ( adds a faster CPU , Adds memory ) , Horizontal Scalling ( Adding more servers) 
+3. Elastic -> Add ( Addes resources when application is heavily used) or remove (Remove unnecessary resources when unnecessary) resources 
+4. Business Continuity -> Buidling and deploying applicaitons  
