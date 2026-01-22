@@ -1,1 +1,58 @@
+Cloud Migration:
+Why cloud adoption ? 
+Greater Business Agility -> This brings your application and services to the market faster and have reduce time to market.
+Cost Savins -> It saves cost as you need not inverst to buy physical hardware or infrastructure.
+Reduce maintainance -> Cloud providers will take care of structure and space.
+Environmental friendly -> Cloud helps your organization by reducing the carbon footprints. 
+
+What is Cloud mirgation ?
+It is the process of transfferring databases applications and IT processes into cloud form an on premise system to another cloud.
+(Cloud Migration is the process of moring digital business operations into cloud)
+eg : Benefits -> Increased cost savings, Greater flexibility.
+
+Benefits of Cloud Migration: 
+Higher Scalability -> Cloud migration helps to scale up and scale down to meet ever changing demand.
+Increased Flexibility -> It makes the businesses and organization to expand into newer regions,allowing them to offer thier services globally and let their resources work flexibly. 
+Improved performance -> It provides improved performance and improved user experience.
+Reduced Costs -> It is cost effective.
+
+Challanges of Cloud Mirgation:
+Data integrity -> The data should remain intact and secure after it has been transferred and should not be leaked during the process.
+Continued Operation -> During migration, the current system should be operational and available for the enterprise and businesses to ensure thier will be continue delivery, There will be some overlap between cloud and on permise. Business should
+make sure that migration is done in bits and pieces.Typically all at once.
+Interoperability and Portability -> The migration services in and out of the cloud should be provided to the customer. The user should be able to move the data between the cloud and on premise infrastructure. Customer should
+be allowed to use the same tools and software across a variety of cloud providers.
+Migrating Huge data -> In order to functioning the cloud, the database might need to move to a different platform. Cloud provider have now started providing services offering physical data transfer where you get a hardware device curried to your on premise to 
+tranfer the data onto it and then shipping the storage device back to the cloud provider. This helps reduce the time it would have taken for massive data transfer.
+Reliability and Flexibility -> Reliability should be provided to the customer by the host and data in the cloud should not leak. Tis challenge can be eliminated by monitoring and supervising the performace business dependencies and robustness in the service
+provided by the third party. 
+Downtime -> A common challenge in cloud is downtime. None of the cloud providers provide you with a platform which is free from downtime. Downtime may also arise due to other issues like poor internet connectivity, power supply and network failure.
+Security and Privacy -> Security and full confidentialit yshould be provided by data stores in cloud. Necessary security measures should be taken by cloud providers to secure the customer's data. When it comes to cloud security, It is a shared responsibility
+which means customers as well as cloud providers should be responsible in taking care of data. As some good practices, you should not share the password with anyone. Have a strog password and regularly change the password.
+Cost -> The cloud computing is affordable, but it can be expensive when you tried to meet the customers demand and modify the cloud, Modifying the cloud may sometimes cost more and can hinder small scale organizations. Apart from it, transferring the data
+back to on premises from cloud can be costly.
+Lack of resources -> Today, there is a huge gap between the demand and supply of required resources and expertise. Enterprises are overcoming this challenge by iring skilled persons who are experienced, can help eliminate challenges faced by the company
+and also train existing resources on new technologies.
+Management of multi - cloud environment -> Companies have started using mulitple clouds rather than relying on one single cloud making themselves cloud agnostic. There may be complexities faced by the IT team in a mulit cloud environment. 
+
+
+Cloud Migration Stratergy:
+Five Rs of cloud migration stratergy
+1. Rehost -> It is basically having same thing. But on cloud servers, Businesses select on Iaas provider to rehost and reconstruct their application architecture on that infrastructure. The expected business outcome is No capital expenditure to get started free up space in the 
+data center, Return on investment in cloud can be achieved rapidly.
+2. Refactor -> Already existing code and frameworks are reusedby the businesses used to refactor. Instead of Iaas, they run their application on Pas platform as a servie providers platform. The expected business outcome is updates can be rolled out quickly,
+Benefit from code portability, greater cloud efficiency can be achieved in the areas of resources cost and speed. This stratergy encompasses partial rewriting or expanding of the codebase and then deploying it by either rehost or refactoring. The expected business outcome is
+applications are scalable and agile, New cloud capabilities can be adopted more easily. Different technology stacks can be used. 
+3. Revise
+4. Rebuild -> Rebuild means rewriting and re architecting the application from scratch on a Paas providers platform. This allows developers to leverage the advanced features offered by Paas providers but would be a labor intensive task. The epected business outcome is help drive innovation
+as your R&D team can use different cloud services to develop the products. Application can be build faster, providing more time for testing and release activities. Operational cost can be reduced compared to the cost of on-premise infrastructure.
+5. Replace -> Enterprises can also opt to get rid of their old applications completely and switch toalready available Saas from different third party vendors. The expected business outcome is  standardize and follow industry best practices. Business process driven approaches
+can be adopted quickly, improving collaboration between the team. Allows more investments into applications that create difference or provide competitive advantages so that you achieven greater ROI.
+
+Cloud Migration Plan:
+1. Define stratergy and perform assessment 
+2. Plan for readiness and other processes
+3. Adopt and migrate
+4. Govern, manage and optimize.
+
 
